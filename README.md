@@ -27,7 +27,7 @@ Open [http://localhost:3000](http://localhost:3000)
 
 #### IMPORTANT !
 This project is dependent on the GraphQl Server project to fetch the data.
-Get it here: [GraphQl Apollo Server](https://github.com/guipina/graphql-server)
+Get it here: [GraphQl Apollo Server](https://github.com/guipina/graphql-server-test)
 
 ### Middleware
 * Routes the request to the respective device type directory based on user agent ("desktop" or "mobile").
